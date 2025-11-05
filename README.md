@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fejil Francis</h1>
-<h3 align="center">I’m passionate about cybersecurity — exploring vulnerabilities, understanding exploits, and building tools to strengthen digital defenses. I enjoy working on ethical hacking, CTF challenges, and automation scripts that make security testing more efficient and accessible.</h3>
+<h3 align="center">I’m passionate about cybersecurity — exploring vulnerabilities, understanding exploits, and building tools. I enjoy working on ethical hacking.</h3>
 
 - 🌱 I’m currently learning **cybersecurity,python**
 
