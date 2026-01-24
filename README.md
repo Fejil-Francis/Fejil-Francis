@@ -9,8 +9,8 @@
 <a href="https://instagram.com/fejil_francis" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fejil_francis" height="30" width="40" />
 </a>
-<a href="https://codeforces.com/profile/fejil%20francis" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fejil francis" height="30" width="40" />
+<a href="https://leetcode.com/u/Fejil/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fejil francis" height="30" width="40" />
 </a>
 <a href="https://tryhackme.com/p/Fejil" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tryhackme.svg" alt="TryHackMe" height="30" width="40" />
