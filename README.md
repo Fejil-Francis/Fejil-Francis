@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fejil Francis</h1>
 <h3 align="center">I’m passionate about cybersecurity — exploring vulnerabilities, understanding exploits, and building tools. I enjoy working on ethical hacking.</h3>
 
-- 🌱 I’m currently learning **cybersecurity,python**
+- 🌱 Exploring Cybersecurity, IoT, and Python
 
 - 📫 How to reach me **fejilfrancis@gmail.com**
 <h3 align="left">Connect with me:</h3>
